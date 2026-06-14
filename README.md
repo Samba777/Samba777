@@ -29,15 +29,15 @@
 ### Languages
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
-
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 ### Data Science
 
@@ -63,12 +63,19 @@
 
 ### 🎤 AI Interview System
 
-AI-powered interview practice platform with automated evaluation and feedback.
-
+- AI-powered mock interview platform
+- Automated evaluation and feedback
+- Built using Python and AI technologies
+🔗 Repository:
+https://github.com/Samba777/ai-interview-system
+---
 ### 📈 Dynamic Pricing Engine
 
-Machine Learning solution for demand-based pricing optimization.
-
+- Machine Learning-based pricing optimization
+- Predicts optimal prices from market data
+- Built using Python, Pandas, NumPy
+🔗 Repository:
+https://github.com/Samba777/dynamic-pricing-engine
 ---
 
 ## 📫 Connect With Me
