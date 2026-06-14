@@ -5,6 +5,12 @@
 🎓 MCA Graduate
 
 💼 Open to Data Science, Machine Learning, and AI Opportunities
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samba777&show_icons=true)
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samba777&layout=compact)
 
 ---
 
