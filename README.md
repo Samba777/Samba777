@@ -21,9 +21,17 @@
 ## 🛠️ Tech Stack
 
 ### Languages
+## 🛠️ Tech Stack
 
-* Python
-* SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 
 ### Data Science
 
