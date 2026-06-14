@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋, I'm Venkata Sambasivarao Tuti
 
-<!--
-**Samba777/Samba777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Science | 🤖 Artificial Intelligence | 🐍 Python
 
-Here are some ideas to get you started:
+🎓 MCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Open to Data Science, Machine Learning, and AI Opportunities
+
+---
+
+## 🚀 About Me
+
+* Passionate about Data Science and Artificial Intelligence
+* Strong foundation in Machine Learning and Deep Learning
+* Experienced in Python, SQL, and Data Analysis
+* Built AI-powered and Machine Learning projects
+* Eager to contribute and grow in the AI industry
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* SQL
+
+### Data Science
+
+* Data Analysis
+* Data Visualization
+* Statistics
+
+### Machine Learning
+
+* Supervised Learning
+* Unsupervised Learning
+* Model Evaluation
+
+### Artificial Intelligence
+
+* Deep Learning
+* Generative AI
+* Prompt Engineering
+
+---
+
+## 🚀 Featured Projects
+
+### 🎤 AI Interview System
+
+AI-powered interview practice platform with automated evaluation and feedback.
+
+### 📈 Dynamic Pricing Engine
+
+Machine Learning solution for demand-based pricing optimization.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: YOUR_LINKEDIN_LINK
+* Email: YOUR_EMAIL
+
+---
+
+⭐ Thanks for visiting my profile!
