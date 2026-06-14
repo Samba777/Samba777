@@ -59,8 +59,8 @@ Machine Learning solution for demand-based pricing optimization.
 
 ## 📫 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN_LINK
-* Email: YOUR_EMAIL
+* LinkedIn: https://www.linkedin.com/in/venkata-sambasivarao-tuti-85115a2a1/
+* Email: tutisambasivarao@gmail.com (Primary)
 
 ---
 
