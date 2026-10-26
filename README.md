@@ -4,7 +4,7 @@
 
 🎓 MCA Graduate
 
-💼 Open to Data Science, Machine Learning, and AI Opportunities
+💼 Open to Data Science, Machine Learning, and IT Opportunities
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samba777&show_icons=true)
